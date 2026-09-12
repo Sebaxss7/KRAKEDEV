@@ -1,0 +1,1 @@
+git clone: sirve para copiar un repositorio remoto de Git a nuestro computador local.
